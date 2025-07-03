@@ -11,7 +11,7 @@ This project is a 2D educational platformer game developed in Unity. It is desig
 ### macOS:
 1. Download the `PhysicsGame_MacBuild.zip` file.
 2. Extract the zip file to reveal the `.app` file.
-3. Open the `.app` file to play. (Note: If macOS blocks the app, go to System Preferences > Security > Allow Anyway.)
+3. Open the `.app` file to play.
 
 ### Windows:
 A Windows build is currently not available due to platform-specific module limitations on macOS. The full Unity project is available and can be rebuilt on Windows using Unity version `6000.1.0f1` or later with the Windows IL2CPP module installed.
@@ -28,13 +28,6 @@ A Windows build is currently not available due to platform-specific module limit
 - Universal Render Pipeline (URP)
 - Cinemachine (Unity package manager)
 - For Windows build: IL2CPP module installed
-
-## How to Build (Optional)
-1. Open the project in Unity Editor.
-2. Go to `File > Build Settings`.
-3. Select your target platform (e.g. macOS or Windows).
-4. Add the main scene(s) to the build.
-5. Click `Build` and choose an output folder.
 
 ## Additional Information
 - The complete Unity project is included in the repository.
