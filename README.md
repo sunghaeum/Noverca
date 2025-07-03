@@ -20,10 +20,6 @@ A Windows build is currently not available due to platform-specific module limit
 - Player movement and jumping system
 - Physics concepts displayed in-game via signs
 - Login and sign-up system with secure password hashing
-- Death and respawn mechanics with effects
-- Fade-to-black game ending sequence with stats display
-- Adjustable sound effects and music transitions
-- Camera zone transitions using Cinemachine
 - User-friendly UI and scene management
 
 ## Requirements to Build from Source
